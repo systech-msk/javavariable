@@ -1,0 +1,14 @@
+
+package javavariable;
+
+public class Javavariable {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] str) {
+        int var=10;
+        System.out.println(var);
+    }
+    
+}
